@@ -39,5 +39,5 @@ graphs and tables to identify trends and patterns.
 
 #### Dashboard:
 
-<img width="1072" height="593" alt="Call_centre_report_dashboard" src="https://github.com/user-attachments/assets/42cc8858-4728-41be-9c41-4e6ce84a5d24" />
+<img width="1076" height="595" alt="Call_centre_report_dashboard" src="https://github.com/user-attachments/assets/d4980237-72e2-4679-bc66-e54e4ad9919e" />
 
