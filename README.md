@@ -38,3 +38,6 @@ graphs and tables to identify trends and patterns.
 •	Call trends: Analyzed number of calls received each month to identify seasonal patterns in call volume, duration, or other metrics to optimize staffing and resource allocation.
 
 #### Dashboard:
+
+<img width="1072" height="593" alt="Call_centre_report_dashboard" src="https://github.com/user-attachments/assets/42cc8858-4728-41be-9c41-4e6ce84a5d24" />
+
