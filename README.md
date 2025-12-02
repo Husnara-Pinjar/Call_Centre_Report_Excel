@@ -4,8 +4,8 @@
 
 This project aims to analyze the performance of Call Centre operations, 
 providing insights into key metrics such as call volume, representative performance, 
-average handling time, customer satisfaction and customers details like customer age, g
-ender and their city.  The Dashboard features insightful visualizations, including charts,
+average handling time, customer satisfaction and customers details like customer age, 
+gender and their city.  The Dashboard features insightful visualizations, including charts,
 graphs and tables to identify trends and patterns.
 
 #### 🛠️Tools used:
